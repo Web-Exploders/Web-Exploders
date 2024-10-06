@@ -1823,7 +1823,111 @@ button a {
     
   }
 
+  @media screen and (min-width:250px) and (max-width:280px) {
+    .left-box-third-name{
+      font-size: 12px;
+    }
 
+    .left-box-fifth-name{
+      margin-right: 5px;
+    }
+
+    .right-box-fifth-name{
+      margin-right: 1px
+    };
+
+    .left-box-fifth-name a{
+      font-size: 6px;
+    }
+
+    .right-box-fifth-name a{
+      font-size: 6px;
+    }
+
+    .fifth-name{
+      margin-top: 180px;
+    }
+  }
+
+  @media screen and (min-width:281px) and (max-width:296px){
+    .left-box-second-name{
+      font-size: 20px;
+    }
+
+    .left-box-third-name{
+      font-size: 14px;
+    }
+
+    .right-box-fifth-name{
+      margin-top: 30px;
+    }
+
+    .left-box-fifth-name{
+      margin-top: 45px;
+    }
+
+    .fifth-name{
+      margin-top: 200px;
+      margin-right: 10px ;
+    }
+  }
+
+  @media screen and (min-width:297px) and (max-width:308px){
+    .left-box-third-name{
+      font-size: 14px;
+    }
+
+    .left-box-fifth-name{
+      margin-top: 30px;
+    }
+
+    .fifth-name{
+      margin-top: 200px;  
+      }
+  }
+
+  @media screen and (min-width:309px) and (max-width:312px){
+    .left-box-third-name{
+      font-size: 14px;
+    }
+
+    .left-box-fifth-name{
+      margin-top: 30px;
+      margin-right: 10px;
+    }
+
+    .left-box-second-name{
+      font-size: 23px;
+    }
+    
+    .right-box-forth-ul{
+      font-size: 13px;
+    }
+
+    .right-box-fifth-name{
+      margin-top: px;
+    }
+
+    .fifth-name{
+      margin-top: 200px;
+    }
+  }
+
+
+  @media screen and (min-width:337px) and (max-width:600px){
+    .fifth-name{
+      margin-top: 180px;
+    }
+  }
+
+  @media screen and (min-width:330px) and (max-width:332px){
+    .left-box-third-name{
+      font-size: 13px;
+    }
+
+    margin-top: ;
+
+  }
   /* MY PHONE */
   @media screen and (max-width:425px){
     header{
@@ -1882,17 +1986,17 @@ button a {
     }
   }
 
- @media screen and (max-width:336px) {
+ @media screen and (min-width:313px) and (max-width:336px) {
   .right-box-forth-ul{
     font-size: 13px;
   }
 
  .left-box-fifth-name{
-  padding-top: 35px;
+  margin-top: 35px;
  }
 
  .fifth-name{
-  padding-top: 200px;
+  padding-top: 170px;
  }
 
   .right-box-fifth-name {
